@@ -1,0 +1,2 @@
+Run python3 hello.py to print the course name.
+Use git status to inspect local changes.
