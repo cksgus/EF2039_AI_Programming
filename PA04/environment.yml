@@ -1,0 +1,11 @@
+name: ef2039-pa04
+channels:
+  - conda-forge
+  - nodefaults
+dependencies:
+  - python=3.11
+  - pytorch=2.5.1
+  - torchvision=0.20.1
+  - numpy=1.26.4
+  - scikit-learn=1.5.2
+  - pillow=10.4.0

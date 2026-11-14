@@ -1,0 +1,6 @@
+{
+  "task": "synthetic (1) vs real IDID (0) crops, normal and broken pooled",
+  "train": 1990,
+  "test": 1990,
+  "test_auc": 1.0
+}
